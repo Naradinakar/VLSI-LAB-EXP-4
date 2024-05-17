@@ -80,8 +80,6 @@ Endmodule
 # JK FLIPF
 
 ![301743103-1510e030-4ddc-42b1-88ce-d00f6f0dc7e6](https://github.com/Naradinakar/VLSI-LAB-EXP-4/assets/161109578/ac7b4a32-5679-47ff-903e-c5446177fb4e)
-LOP:
-
 
 # VERILOG CODE:
 
