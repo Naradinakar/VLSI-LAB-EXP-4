@@ -77,7 +77,7 @@ Endmodule
 ![324238983-769a480e-09db-4c46-a8bb-051af3e0bd15](https://github.com/Naradinakar/VLSI-LAB-EXP-4/assets/161109578/55276712-8aa8-4d4c-b1e4-24702ec27e2c)
 
 
-# JK FLIPF
+# JK FLIPFLOP:
 
 ![301743103-1510e030-4ddc-42b1-88ce-d00f6f0dc7e6](https://github.com/Naradinakar/VLSI-LAB-EXP-4/assets/161109578/ac7b4a32-5679-47ff-903e-c5446177fb4e)
 
