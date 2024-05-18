@@ -202,7 +202,8 @@ Endmodule
 
 4bit UPDOWN COUNTER
 
-![updown counter vlsi](https://github.com/nithin2134/VLSI-LAB-EXP-4/assets/160302970/63e24e65-fd36-4605-983f-331967760c5d
+![320184799-63e24e65-fd36-4605-983f-331967760c5d](https://github.com/Naradinakar/VLSI-LAB-EXP-4/assets/161109578/0f9fb914-7382-4308-8296-75fe29a71d51)
+
 
 
 
